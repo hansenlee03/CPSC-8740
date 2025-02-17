@@ -1,4 +1,4 @@
-# CPSC-8740
+# CPSC-8740: Playing with AI
 # Python Projects: Basic Calculator, Tic-Tac-Toe Game, and To-Do List Application
 
 This repository contains three simple Python projects that demonstrate basic programming concepts and functionality. Each project is designed to be easy to understand and can be run directly in a Python environment.
